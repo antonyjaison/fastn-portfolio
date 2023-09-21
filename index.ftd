@@ -1,6 +1,7 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: antonyjaison.github.io/fastn-portfolio/lib
+-- import: fastnui.trizwit.com/UI-Components/Contact/contact-2
 
 -- lib.page:
 
@@ -28,5 +29,14 @@ Back-End: Node.js, Express.js, Django
 Databases: MongoDB, MySQL, PostgreSQL
 Tools: Git, Visual Studio Code, Docker
 
+-- contact-2.contact-2: Contact
+cta-button-1: Button
+link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+facebook: $assets.files.assets.menu.svg
+twitter: $assets.files.assets.menu.svg
+instagram: $assets.files.assets.menu.svg
+linkedin: $assets.files.assets.menu.svg
+
+Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify.
 
 -- end: lib.page
